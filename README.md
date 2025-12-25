@@ -37,7 +37,7 @@
 
 ## Overview
 
-This repository contains the documentation for a laboratory project conducted at the **University of West Attica**, within the **Department of Computer and Information Technology and Computer Engineering**.  
+This repository contains the documentation for a laboratory project conducted at the **University of West Attica**, within the **Department of Computer and Informatics Technology and Computer Engineering**.  
 The project focuses on the **theoretical**, **simulated**, and **experimental** verification of fundamental electrical laws.
 
 ---
