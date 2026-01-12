@@ -54,7 +54,7 @@
 
 ---
 
-## Overview
+# Project Overview
 
 This repository contains the documentation for a laboratory project conducted at the **University of West Attica**, within the **Department of Computer and Informatics Technology and Computer Engineering**.  
 The project focuses on the **theoretical**, **simulated**, and **experimental** verification of fundamental electrical laws.
@@ -165,7 +165,7 @@ The experimental and simulated measurements verified **Kirchhoff’s Second Law*
 
 ---
 
-## Installation Guide
+# Installation Guide
 
 Clone this repository to your local machine. 
 ```bash
