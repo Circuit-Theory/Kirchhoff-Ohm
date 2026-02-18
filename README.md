@@ -8,6 +8,11 @@
   DEPARTMENT OF COMPUTER ENGINEERING AND INFORMATICS
 </p>
 
+<p align="center">
+  <a href="https://www.uniwa.gr" target="_blank">University of West Attica</a> ·
+  <a href="https://ice.uniwa.gr" target="_blank">Department of Computer Engineering and Informatics</a>
+</p>
+
 <hr/>
 
 <p align="center">
@@ -33,12 +38,38 @@
   Student ID: 21390084
 </p>
 
+<p align="center">
+  <a href="https://www.instagram.com/nikos_.kats/" target="_blank">Social</a>
+</p>
+
+<hr/>
 
 <p align="center">
-  Supervisor: Christos Kampouris, Laboratory Teaching Staff
+  <strong>Supervision</strong>
+</p>
+
+<p align="center">
+  Supervisor: Ioannis Vogiatzis, Professor<br>
+</p>
+
+<p align="center">
+  <a href="https://ice.uniwa.gr/en/emd_person/ioannis-voyiatzis/" target="_blank">UNIWA Profile</a> ·
+  <a href="https://www.linkedin.com/in/ioannis-voyiatzis-7b5a6b88/" target="_blank">LinkedIn</a>
+</p>
+
+<p align="center">
+  Supervisor: Ioannis Amorginos, Applications Lecturer
 </p>
 <p align="center">
-  <a href="https://www.syros.aegean.gr/en/staff/research-staff/phd-candidates/christos-kampouris" target="_blank">UNIWA Profile</a>
+  <a href="https://ice.uniwa.gr/en/emd_person/ioannis-amorginos/" target="_blank">UNIWA Profile</a> ·
+  <a href="https://www.linkedin.com/in/%CE%B1%CE%BC%CE%BF%CF%81%CE%B3%CE%AF%CE%BD%CE%BF%CF%82-%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82-7185b088/" target="_blank">LinkedIn</a>
+</p>
+
+<p align="center">
+  Co-supervisor: Christos Kampouris, Laboratory Teaching Staff
+</p>
+<p align="center">
+  <a href="https://www.syros.aegean.gr/en/staff/research-staff/phd-candidates/christos-kampouris" target="_blank">Academic Profile</a>
 </p>
 
 <p align="center">
@@ -48,13 +79,25 @@
   <a href="https://ice.uniwa.gr/en/emd_person/georgios-antoniou/" target="_blank">UNIWA Profile</a>
 </p>
 
+</hr>
+
+---
+
 <p align="center">
   Athens, April 2022
 </p>
 
 ---
 
-# Project Overview
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDe-aPx5OWv8JltLIK7IC_MDXK2fPi0v8L5A&s" width="250"/>
+</p>
+
+---
+
+# README
+
+## Kirchhoff's Laws - Ohm Law - Potentiometer - Rheostat
 
 This repository contains the documentation for a laboratory project conducted at the **University of West Attica**, within the **Department of Computer and Informatics Technology and Computer Engineering**.  
 The project focuses on the **theoretical**, **simulated**, and **experimental** verification of fundamental electrical laws.
@@ -63,39 +106,40 @@ The project focuses on the **theoretical**, **simulated**, and **experimental** 
 
 ## Table of Contents
 
-| Section | Folder | Description |
-|------:|--------|-------------|
-| 1 | `assign/` | Assignment material for the Circuit Theory course |
-| 1.1 | `assign/circuit theory rev2021_EXERCISE_1st.pdf` | Assignment description in English |
-| 1.2 | `assign/θεωρία κυκλωμάτων rev2021_ΑΣΚΗΣΗ_1η.pdf` | Assignment description in Greek |
-| 2 | `docs/` | Documentation on Kirchhoff’s Laws, Ohm’s Law, potentiometer, and rheostat |
-| 2.1 | `docs/Kirchhoff-Ohm-Potentiometer-Rheostat.pdf` | English documentation |
-| 2.2 | `docs/Κίρκοφ-Ωμ-Ποτενσιόμετρο-Ροοστάτης.pdf` | Greek documentation |
-| 3 | `multisim/` | Circuit simulation files and visual outputs |
-| 3.1 | `multisim/1stLawKirchhoff/` | Multisim files and images for Kirchhoff’s First Law |
-| 3.2 | `multisim/2ndLawKirchhoff/` | Multisim files and images for Kirchhoff’s Second Law |
-| 3.3 | `multisim/LawOfOhm/` | Simulations for Ohm’s Law |
-| 3.3.1 | `multisim/LawOfOhm/RChange/` | Output images for resistance variation |
-| 3.3.2 | `multisim/LawOfOhm/VoltChange/` | Output images for voltage variation |
-| 3.3.3 | `multisim/LawOfOhm/*.ms14` | Multisim project files for Ohm’s Law variants |
-| 3.4 | `multisim/Potentiometer/` | Potentiometer simulation files and output images |
-| 3.5 | `multisim/Rheostat/` | Rheostat simulation files and output images |
-| 3.6 | `multisim/VoltDividerVariant.ms14` | Voltage divider variant simulation |
-| 4 | `README.md` | Repository overview and usage instructions |
+| Section | Folder                                           | Description                                                               |
+| ------: | ------------------------------------------------ | ------------------------------------------------------------------------- |
+|       1 | `assign/`                                        | Assignment material for the Circuit Theory course                         |
+|     1.1 | `assign/circuit theory rev2021_EXERCISE_1st.pdf` | Assignment description in English                                         |
+|     1.2 | `assign/θεωρία κυκλωμάτων rev2021_ΑΣΚΗΣΗ_1η.pdf` | Assignment description in Greek                                           |
+|       2 | `docs/`                                          | Documentation on Kirchhoff’s Laws, Ohm’s Law, potentiometer, and rheostat |
+|     2.1 | `docs/Kirchhoff-Ohm-Potentiometer-Rheostat.pdf`  | English documentation                                                     |
+|     2.2 | `docs/Κίρκοφ-Ωμ-Ποτενσιόμετρο-Ροοστάτης.pdf`     | Greek documentation                                                       |
+|       3 | `multisim/`                                      | Circuit simulation files and visual outputs                               |
+|     3.1 | `multisim/1stLawKirchhoff/`                      | Multisim files and images for Kirchhoff’s First Law                       |
+|     3.2 | `multisim/2ndLawKirchhoff/`                      | Multisim files and images for Kirchhoff’s Second Law                      |
+|     3.3 | `multisim/LawOfOhm/`                             | Simulations for Ohm’s Law                                                 |
+|   3.3.1 | `multisim/LawOfOhm/RChange/`                     | Output images for resistance variation                                    |
+|   3.3.2 | `multisim/LawOfOhm/VoltChange/`                  | Output images for voltage variation                                       |
+|   3.3.3 | `multisim/LawOfOhm/*.ms14`                       | Multisim project files for Ohm’s Law variants                             |
+|     3.4 | `multisim/Potentiometer/`                        | Potentiometer simulation files and output images                          |
+|     3.5 | `multisim/Rheostat/`                             | Rheostat simulation files and output images                               |
+|     3.6 | `multisim/VoltDividerVariant.ms14`               | Voltage divider variant simulation                                        |
+|       4 | `README.md`                                      | Repository overview and usage instructions                                |
+|       5 | `INSTALL.md`                                     | Usage instructions                                                        |
 
 ---
 
-## Project Overview
+## 1. Project Overview
 
 The primary objective of this project is to verify **Kirchhoff's Laws** and **Ohm’s Law** through three distinct approaches:
 
 - **Theoretical analysis**
-- **Software simulation** using *Multisim*
+- **Software simulation** using _Multisim_
 - **Physical laboratory experimentation**
 
 ---
 
-## Core Topics Covered
+## 2. Core Topics Covered
 
 - **Kirchhoff’s First Law (Current Law – KCL)**  
   Verification that the sum of currents entering a node is equal to the sum of currents leaving it.
@@ -111,9 +155,9 @@ The primary objective of this project is to verify **Kirchhoff's Laws** and **Oh
 
 ---
 
-## Experimental Setup
+## 3. Experimental Setup
 
-### Equipment Used
+### 3.1 Equipment Used
 
 The following laboratory equipment was utilized during the experimental phase:
 
@@ -134,14 +178,14 @@ The following laboratory equipment was utilized during the experimental phase:
 
 ---
 
-## Key Results
+## 4. Key Results
 
-### Kirchhoff’s First Law Verification (KCL)
+### 4.1 Kirchhoff’s First Law Verification (KCL)
 
 In the simulated circuit (Figure 2), a **10 V DC source** was applied:
 
-- **Total Current (XMM1):** 1.027 mA  
-- **Branch Currents (XMM2, XMM3, XMM4):** 342.466 μA each  
+- **Total Current (XMM1):** 1.027 mA
+- **Branch Currents (XMM2, XMM3, XMM4):** 342.466 μA each
 
 **Verification:**  
 The sum of the three branch currents equals the total current entering the node:
@@ -149,11 +193,12 @@ The sum of the three branch currents equals the total current entering the node:
 ```
 342.466 μA × 3 ≈ 1.027 mA
 ```
+
 This confirms **Kirchhoff’s First Law**.
 
 ---
 
-### Kirchhoff’s Second Law Verification (KVL)
+## 5. Kirchhoff’s Second Law Verification (KVL)
 
 Using a **series circuit** (Figure 5) with a **10 V DC source**:
 
@@ -162,60 +207,3 @@ Using a **series circuit** (Figure 5) with a **10 V DC source**:
 
 **Conclusion:**  
 The experimental and simulated measurements verified **Kirchhoff’s Second Law**, demonstrating that the total potential difference around a closed loop is zero.
-
----
-
-# Installation & Setup Guide
-
-This repository contains laboratory simulations and analysis for **Circuit Theory**, focusing on **RLC series and parallel circuits** and their resonance behavior.  
-
-All simulations are implemented in **NI Multisim**.
-
----
-
-## Prerequisites
-
-### Required Software
-- **NI Multisim 14** (or later)  
-  Ensure your system meets the requirements for running `.ms14` files.  
-  Download from [NI Multisim](https://www.ni.com/en-us/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html).
-
-### Optional Software
-- **PDF Viewer** for documentation: `Kirchhoff-Ohm-Potentiometer-Rheostat.pdf` / `Κίρκοφ-Ωμ-Ποτενσιόμετρο-Ροοστάτης.pdf`
-
----
-
-## Installation Steps
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Circuit-Theory/Kirchhoff-Ohm.git
-```
-
-### 2. Navigate to Project Directory
-```bash
-cd Kirchhoff-Ohm
-```
-Ensure the following folder structure exists:
-```bash
-assign/
-docs/
-multisim/
-```
-
----
-
-### 3. Open a Simulation in Multisim
-- Launch NI Multisim.
-- Select File → Open.
-- Navigate to the `multisim/` folder.
-- Open the desired `.ms14` file (series or parallel circuit).
-- Wait for the circuit topology to load.
-
----
-
-## Open the Documentation
-1. Navigate to the `docs/` directory
-2. Open the report corresponding to your preferred language:
-    - English: `Kirchhoff-Ohm-Potentiometer-Rheostat.pdf`
-    - Greek: `Κίρκοφ-Ωμ-Ποτενσιόμετρο-Ροοστάτης.pdf`
