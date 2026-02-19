@@ -124,7 +124,7 @@ The project focuses on the **theoretical**, **simulated**, and **experimental** 
 |     3.4 | `multisim/Potentiometer/`                        | Potentiometer simulation files and output images                          |
 |     3.5 | `multisim/Rheostat/`                             | Rheostat simulation files and output images                               |
 |     3.6 | `multisim/VoltDividerVariant.ms14`               | Voltage divider variant simulation                                        |
-|       4 | `README.md`                                      | Repository overview and usage instructions                                |
+|       4 | `README.md`                                      | Repository overview                                                       |
 |       5 | `INSTALL.md`                                     | Usage instructions                                                        |
 
 ---
